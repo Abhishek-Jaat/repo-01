@@ -30,10 +30,7 @@ body{
     align-items: center;
 }
 
-@media (min-widht: 768px){
-    .child{
-        background-color:blue;
-    }
+
 .header,
 .footer{
     grid-column-start: 1;
@@ -50,6 +47,6 @@ body{
     grid-column-start: 2;
     grid-column-end: 4;
 }
-}
+
 
 
